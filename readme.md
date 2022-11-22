@@ -27,5 +27,8 @@ Cuenta con controles en pantalla,que se explican en las instrucciones, con estos
 <hr>
 En los requerimientos se nos pedia crear un tablero en canva cuyas medidas para cada cuadro era de 40px * 40px en un tablero de 25 columnas* 25 filas, esta medida era demasiado grande para muchas de las pantallas, por lo cual se hizo la modificación y se crearon los cuadros de mediada 20px y en pantallas menores de 425px tomen un tamaño de 15px. 
 En cuanto a las columnas tendremos 20 en pantallas mayores de 425px, en menores dismunuiran a 15, por el contrario las filas en pantallas menores pasara de 15 a 20, cambiando el diseño pero mejorando la visivilidad en dispositivos moviles. 
+<h3>Aprendizaje</h3>
+<hr>
+En este proyecto aprendimos sobre addEventListener, el uso de THIS, la diferencia de sintaxis entre metodos y atributos para el manejo de canvas,creación y manejo de arrays, objetos como Math y diferentes metodos que maneja. Todo esto por medio de documentación, videos y ayuda de nuestros compañeros.
 <hr>
 <h4>Developed by Camila Forero y Valentina Idrogo</h4>
