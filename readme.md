@@ -13,7 +13,7 @@ Cuenta con controles en pantalla,que se explican en las instrucciones, con estos
 <img width="400px" src="https://user-images.githubusercontent.com/86115727/203118055-f8980639-c710-4c16-901e-ceb6d0cebdf6.png" alt="instrucciones-tetris">
 </p>
 <hr>
-<a href=""><h3>¡Juega aquí!</h3></a>
+<a href="https://camilaforer.github.io/Tetris/"><h3>¡Juega aquí!</h3></a>
 <hr>
 <h3>Herramientas utilizadas</h3>
 <hr>
